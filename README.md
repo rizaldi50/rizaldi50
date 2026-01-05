@@ -1,7 +1,6 @@
 # Hi There! I'm Rizaldi  👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Rizaldi!;Software+Developer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Rizaldi!;Software+Developer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about crafting mobile apps and building modern web experiences.  
 🌱 Currently exploring **Python, PHP and UI/UX design principles**.  
